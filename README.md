@@ -12,4 +12,4 @@ nhấn nút View để xem thông tin
 nhấn nút delete để xóa
 
 
-# www_week6
+# www_week6 https://github.com/HuyGlaucus/www_week6/tree/master
